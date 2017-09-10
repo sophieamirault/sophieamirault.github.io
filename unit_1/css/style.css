@@ -1,7 +1,11 @@
 body {
-    background-color: black;
+    background-color: #B7CAD9;
 }
 
-h1, p {
-    color: gold;
+h1 {
+    color: #31262A;
+}
+
+p { 
+   color: #3A2E30;
 }
