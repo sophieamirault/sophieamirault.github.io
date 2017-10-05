@@ -1,8 +1,7 @@
 body {
-	background: url("https://i.imgur.com/TjSRIks.jpg");	
+	background: url("http://imgur.com/a/bvjUU");	
 	background-size: cover;
-	background-repeat: no-repeat;
-	text-align: center;
+	text-align: left;
 	font-family: Helvetica;
 	color: #000;
 }
@@ -18,7 +17,6 @@ h1 {
 
  q {
  	font-style: italic;
-	font-size: 20px;
 }
 
  hr {
